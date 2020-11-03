@@ -1,6 +1,6 @@
 # vue_slots
 
-> A Vue.js project
+The example of using slots
 
 ## Build Setup
 
